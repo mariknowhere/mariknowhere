@@ -70,7 +70,7 @@
 ## Contacts 💬🤔
 | Form | LINK |
 | ------ | ------ |
-| My LinkedIn: | [Click here](https://www.linkedin.com/in/vladimir-vakula/) |
+| My LinkedIn: | [Click here](https://www.linkedin.com/in/mariknowhere/) |
 | My E-Mail: | mariknowhere@gmail.com |
 | My Telegram: | [Click here](https://t.me/maybebabythink) |
 
