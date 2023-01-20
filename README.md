@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=mariknowhere&style=flat-square&color=blue" alt=""/>
 </div>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mariknowhere/">
