@@ -91,21 +91,21 @@
 ### :fire: My Stats :
 
 <div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariknowhere&theme=flag-india&background=white)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariknowhere&count_private=true&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ---
 
 ### 💬 Contacts 
 
-<div align="center">
 | Form | LINK |
 | ------ | ------ |
 | My LinkedIn: | [Click here](https://www.linkedin.com/in/mariknowhere/) |
 | My E-Mail: | mariknowhere@gmail.com |
 | My Telegram: | [Click here](https://t.me/maybebabythink) |
-</div>
