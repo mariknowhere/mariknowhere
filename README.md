@@ -70,8 +70,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-</div>
-
 <div id="skills align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="React-native" alt="React-native" width="50" height="50"/>&nbsp;
@@ -87,12 +85,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
-
-<div align="start">
-
----
-
-
 
 ---
 
