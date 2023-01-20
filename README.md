@@ -1,70 +1,37 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <div>
+<img src="https://komarev.com/ghpvc/?username=mariknowhere&style=flat-square&color=blue" alt=""/>
+</div>
 
-## Приветствую, товарищ! Я Марк 👋😄
 
-Опыт работы 3 года, большой коммерческий опыт (10+ коммерческих проектов) ⚡
+<div align="center">
+  <a href="https://www.linkedin.com/in/mariknowhere/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/maybebabythink">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <h1>
+    Hey There
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I`m Mark
+    <div>
+     <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200px"/>
+    </div>
+  </h1>
+ </div>
+ 
+ ---
 
-Ниже опишу свой опыт: \
-💰 Freelance — пишу веб-приложения малого и среднего размера на заказ (15+ проектов). \
-💼 Itransition — полтора года на финтех-продукты.\
-🎬 Profolio — год в старт-ап продукт-компании (команда 30 человек).
+Опыт работы 3 года, большой опыт и много успешных коммерческих проектов/продуктов.
 
-Визитка — https://mark-strancheuski.netlify.app/
+Ниже опишу свой опыт:
+💰 Freelance — год разработка крупных и средних проектов на заказ (B2B, B2C, B2G).
+💼 Itransition — полтора года на финтех-продукты.
+🎬 Profolio — год в продукт-компании (B2B SaaS).
 
-## Hard Skills ✨
-
-#### — Frontend Tools — 
-~~~
-✅ React 
-✅ TypeScript / JavaScript
-✅ Redux / MobX
-✅ HTML + CSS (Responsive, cross-browser and semantic layout)
-✅ SASS / SCSS / LESS
-✅ TailwindCSS / Bootstrap
-✅ Material UI
-✅ Jest / Enzyme (Unit tests)
-✅ Webpack
-✅ Babel
-~~~
-~~~
-✅ REST / JSON
-✅ WebSocket
-✅ API / AJAX
-✅ CORS
-✅ Promise / Async await / Callback / Event Loop
-~~~
-~~~
-✅ react-router-dom
-✅ axios
-✅ eslint
-✅ classNames
-✅ AOS (Animations)
-✅ pdfMake / pdf-lib / jsPDF
-✅ Swiper (8.0+) / Swiper (6.0) / react-id-swiper
-✅ Three.js
-~~~
-
-#### — Common Dev Tools —
-~~~
-✅ Git (GitHub, GitLab)
-✅ Понимаю принципы ООП, ФП и SOLID
-✅ Figma / Photoshop
-✅ Jira
-✅ Trello
-✅ FTP / SSH
-✅ npm / yarn
-~~~
-
-#### — Backend Tools —
-~~~
-✅ NodeJS
-✅ Express
-✅ PostgreSQL / MsSQL / Microsoft Access
-~~~
-
-#### — Soft Skills —
-~~~
-✅ Agile/Scrum
-~~~
+Визитка — https://mark-strancheuski.netlify.app
 
 ---
 
