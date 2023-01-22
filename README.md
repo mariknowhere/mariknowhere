@@ -65,13 +65,3 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
----
-
-### 💬 Contacts 
-
-| Form | LINK |
-| ------ | ------ |
-| My LinkedIn: | [Click here](https://www.linkedin.com/in/mariknowhere/) |
-| My E-Mail: | mariknowhere@gmail.com |
-| My Telegram: | [Click here](https://t.me/maybebabythink) |
