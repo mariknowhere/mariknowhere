@@ -48,13 +48,4 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariknowhere&count_private=true&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
